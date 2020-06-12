@@ -3,7 +3,7 @@ import '../CSS/ProjectsComponent.css';
 
 function ProjectsComponent() {
   return (
-    <div className="VideoComponent">
+    <div className="ProjectsComponent">
         <h1>Proj comp</h1>
     </div>
   );

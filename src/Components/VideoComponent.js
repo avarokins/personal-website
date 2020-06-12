@@ -4,7 +4,11 @@ import '../CSS/VideoComponent.css';
 function VideoComponent() {
   return (
     <div className="VideoComponent">
-        <h1>Video comp</h1>       
+      <body>
+        <div className='intro'>
+          <video src='WebsiteVideo_cmp.mp4'></video>
+        </div>
+      </body>
     </div>
   );
 }
